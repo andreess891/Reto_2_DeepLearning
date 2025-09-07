@@ -1,0 +1,4 @@
+tensorflow==2.15.1
+tensorflow-directml-plugin
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
